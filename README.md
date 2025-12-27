@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+## 👋 About Me<br><br>Hi, I'm Prince Patel 👨‍💻  <br>I'm a Computer Science Engineering student with a strong interest in Web Development, Backend Systems, and AI-tools.<br><br>I enjoy building real-world projects using HTML, CSS, JavaScript, PHP, and MySQL. <br><br>### 🚀 Projects & Experience<br>- **Hotel Management System**  <br>  Developed a full-stack application to manage rooms, reservations, check-in/check-out, billing, and staff access control.<br><br>- **Student Record Management System**  <br>  Implemented CRUD operations with MVC architecture to store, update, search, and manage student academic records efficiently.<br><br>- **Food Ordering Website**  <br>  Designed and developed a dynamic food ordering platform with menu browsing, order placement, and database-driven backend functionality.<br><br>- **Weather Application**  <br>  Built a weather app that fetches real-time weather data using APIs and displays current conditions based on user location or city search.<br><br>- **Blog Website**  <br>  Created a blog platform with user authentication, post creation, editing, and content management features.<br><br>- **Web Applications using PHP & MySQL**  <br>  Developed multiple dynamic web applications with authentication, session handling, file uploads, and secure database integration.<br><br><br>I’m always eager to learn new technologies, improve my problem-solving skills, and contribute to meaningful projects.<br><br>### 🎯 What I’m Currently Working On<br>- Learning **MERN Stack (MongoDB, Express.js, React, Node.js)**<br>- Improving **Data Structures & Algorithms**<br>- Enhancing backend performance and security<br><br>### 🌱 Learning Mindset<br>I strongly believe in **continuous learning** and **project-based growth**. I enjoy exploring new technologies, participating in hackathons, and working on challenging problems that push my technical limits.<br><br>### 🎯 Career Objective<br>To become a **skilled Full-Stack Developer** and contribute to innovative software solutions while continuously improving my technical and problem-solving abilities.<br><br>## 📫 Contact<br>- Feel free to explore my repositories<br>- Let’s connect and build something meaningful 🚀
 
-<!--
-**Princesvmit/Princesvmit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/patelprince_3536) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Prince Patel) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Princesvmit&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Princesvmit&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Princesvmit&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Princesvmit&icon=10&color=12)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
